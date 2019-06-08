@@ -1,3 +1,4 @@
-echo "Hello"
+#echo "Hello"
 hostname
 pwd
+whoami
